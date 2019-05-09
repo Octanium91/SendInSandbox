@@ -12,4 +12,4 @@ Setup:<br/>
 <br/>
 For uninstall SendInSandbox you need run uninstall.reg.<br/>
 <br/>
-for Windows 7+.
+for Windows Vista/7/8/8.1/10+.
