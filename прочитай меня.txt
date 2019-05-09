@@ -1,0 +1,13 @@
+SendInSandbox это простой способ поделится своими наработками (для веб разработчиков).
+Скрипт встраивается в контекстное меню папок как "Send in Sandbox...", отправляет выбраную вами папку в песочницу, после чего дает вам ссылку (копирует ее в буфер обмена).
+
+Настройка:
+запустить SendInSandbox.cmd от имени админстратора и нажать любую клавишу
+открыть SendInSandbox.cmd в текстовом редакторе (например блокнот, notepad++...), и заполнить настройки
+set "domain=" - введите доменное имя веб ресурса, например: set "domain=octaniumsw.site"
+set "sandboxlocalf=" - введи локальныть путь к папке с вашим веб ресурсом, например: set "andboxlocalf=C:\Web\Apache\octaniumsw"
+set "sandboxf=_sandbox" - вы можете переименовать sandbox папку, например: set "sandboxf=_sharebox"
+set "startup_clean_sandbox=1" - если стоит 1, при запуске windows, sandbox будет очищатся.
+Готово!
+
+Для удачения SendInSandbox необходимо запусить uninstall.reg.
