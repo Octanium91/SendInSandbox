@@ -8,7 +8,8 @@ Setup:<br/>
 - set "sandboxlocalf=" - enter path to local domain folder, example: set "andboxlocalf=C:\Web\Apache\octaniumsw"<br/>
 - set "sandboxf=_sandbox" - you can rename sandbox folder, example: set "sandboxf=_sharebox"<br/>
 - set "startup_clean_sandbox=1" - if set 1, when windows startup, sandbox cleaning.<br/>
+- Done!<br/>
 <br/>
-Done!<br/>
+For uninstall SendInSandbox you need run uninstall.reg.<br/>
 <br/>
-For uninstall SendInSandbox you need run uninstall.reg.
+for Windows 7+.
