@@ -10,4 +10,4 @@ set "sandboxf=_sandbox" - вы можете переименовать sandbox папку, например: set "
 set "startup_clean_sandbox=1" - если стоит 1, при запуске windows, sandbox будет очищатся.
 Готово!
 
-Для удачения SendInSandbox необходимо запусить uninstall.reg.
+Для удаления SendInSandbox необходимо запусить uninstall.reg.
