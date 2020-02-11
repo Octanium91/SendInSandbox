@@ -10,6 +10,11 @@ Setup:<br/>
 - set "startup_clean_sandbox=1" - if set 1, when windows startup, sandbox cleaning.<br/>
 - Done!<br/>
 <br/>
+Use:<br/>
+- right click on folder with website\web content<br/>
+- select item 'Send in Sandbox...'<br/>
+- done! your site is ready online, url copied to clipboard!<br/>
+<br/>
 For uninstall SendInSandbox you need run uninstall.reg.<br/>
 <br/>
 for Windows Vista/7/8/8.1/10+.
